@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BODY GOAL</title>
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f9f5f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #8e44ad; /* Morado cute */
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-weight: 600;
+        }
+
+        header p {
+            margin: 5px 0 0;
+        }
+
+        section.routine, section.tips {
+            padding: 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        section.routine h2, section.tips h2 {
+            color: #8e44ad; /* Morado cute */
+            font-weight: 600;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            background-color: #e8d7f7; /* Morado claro */
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        li a {
+            color: #8e44ad; /* Morado cute */
+            text-decoration: none;
+        }
+
+        .tips ul {
+            padding-left: 20px;
+        }
+
+        .tips li {
+            background-color: #fce4ec; /* Rosa claro */
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>BODY GOAL</h1>
+        <p>Programa de ejercicios para alcanzar tus metas antes de noviembre</p>
+    </header>
+
+    <section class="routine">
+        <h2>Rutina Semanal</h2>
+        <ul>
+            <li>
+                <strong>Domingo:</strong> Yoga (Flexibilidad y Relajación) - 45 min<br>
+                <a href="https://www.youtube.com/watch?v=v7AYKMP6rOE">Yoga para Flexibilidad</a><br>
+                <a href="https://www.youtube.com/watch?v=ho1mIovNQMc">Yoga para la Relajación</a>
+            </li>
+            <li>
+                <strong>Lunes:</strong> Pilates (Core y Fuerza General) - 40 min<br>
+                <a href="https://www.youtube.com/watch?v=lCg_gh_fppI">Pilates para Principiantes</a><br>
+                <a href="https://www.youtube.com/watch?v=VrS6akzR03I">Pilates para Abdominales</a>
+            </li>
+            <li>
+                <strong>Martes:</strong> Pesas (Piernas y Glúteos) - 50 min<br>
+                <a href="https://www.youtube.com/watch?v=MEYC3IHHwAg">Entrenamiento Piernas y Glúteos</a><br>
+                <a href="https://www.youtube.com/watch?v=HuQBzrPvOCE">Entrenamiento Glúteos y Caderas</a>
+            </li>
+            <li>
+                <strong>Miércoles:</strong> Yoga (Fuerza y Equilibrio) - 45 min<br>
+                <a href="https://www.youtube.com/watch?v=U9Xn06FdcYo">Yoga para Fuerza y Equilibrio</a><br>
+                <a href="https://www.youtube.com/watch?v=fdsYPL_IXZc">Yoga Dinámico</a>
+            </li>
+            <li>
+                <strong>Jueves:</strong> Pilates (Tonificación de Cuerpo Completo) - 40 min<br>
+                <a href="https://www.youtube.com/watch?v=odVxJ9f1i6Q">Pilates de Cuerpo Completo</a><br>
+                <a href="https://www.youtube.com/watch?v=xyTSgx0YveU">Pilates para Todo el Cuerpo</a>
+            </li>
+            <li>
+                <strong>Viernes:</strong> Pesas (Brazos y Espalda) - 50 min<br>
+                <a href="https://www.youtube.com/watch?v=2-L-AMcGRO8">Entrenamiento Brazos y Espalda</a><br>
+                <a href="https://www.youtube.com/watch?v=sQ9Ld8-5mZY">Pesas para Brazos y Espalda</a>
+            </li>
+        </ul>
+    </section>
+
+    <section class="tips">
+        <h2>Consejos para Potenciar tus Ejercicios</h2>
+        <ul>
+            <li>
+                <strong>Agua de Limón con Chía:</strong> 
+                Mezcla agua de limón con semillas de chía para una bebida refrescante y rica en nutrientes. Las semillas de chía son una excelente fuente de fibra, proteínas y ácidos grasos omega-3, que ayudan en la digestión y la hidratación. Además, el limón aporta vitamina C y ayuda a desintoxicar el cuerpo.
+            </li>
+            <li>
+                <strong>Té Verde:</strong> 
+                El té verde está lleno de antioxidantes que ayudan a mejorar el metabolismo y promover la quema de grasas. Tomar una taza de té verde antes de tu entrenamiento puede darte un impulso adicional.
+            </li>
+            <li>
+                <strong>Batido de Espinacas y Plátano:</strong> 
+                Prepara un batido con espinacas y plátano para una carga de nutrientes. Las espinacas son ricas en hierro y vitaminas, mientras que el plátano proporciona energía rápida y potasio para prevenir calambres musculares.
+            </li>
+            <li>
+                <strong>Agua de Coco:</strong> 
+                Es una excelente bebida para la hidratación, ya que contiene electrolitos naturales. Perfecta para reponerte después de una sesión intensa de ejercicios.
+            </li>
+            <li>
+                <strong>Frutos Secos y Semillas:</strong> 
+                Los frutos secos como almendras y nueces, y las semillas como las de girasol, son buenas fuentes de proteínas y grasas saludables que pueden ayudar a mantener la energía y la saciedad.
+            </li>
+        </ul>
+    </section>
+</body>
+</html>
